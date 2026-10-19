@@ -43,6 +43,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [KushoAI](https://kusho.ai/) - AI-native platform for API contract testing, end-to-end testing, UI testing, and continuous security scanning, with self-healing tests that automatically adapt to code changes in CI/CD.
 - [postman2pytest](https://github.com/golikovichev/postman2pytest) - Convert a Postman Collection v2.1 JSON file into a ready-to-run pytest test suite.
 - [funapi](https://funapi.dev) - A free mock REST API service designed for practicing API testing, automation, and integration with realistic scenarios and endpoints.
+- [CedarProof GraphQL response kit](https://subnano.me/@cedarproof/http-200-partial-graphql-data-stop-the-false-green) - Paid offline Python CLI with 14 synthetic fixtures for classifying reported HTTP/GraphQL failures, with a [free example](https://gist.github.com/CedarProof/bafa0065eb3bf57b3dbd30b61abb4094).
 
 ### Security Testing
 - [BeEF](http://beefproject.com/) - Manipulate the browser by exploiting any XSS vulnerabilities you find.
